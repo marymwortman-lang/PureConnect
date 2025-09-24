@@ -1,0 +1,8 @@
+{
+  "name": "BandhanCall - Modern Video Chat",
+  "description": "A minimal, modern, and aesthetically pleasing video-call application built with React, TypeScript, and Tailwind CSS, demonstrating WebRTC peer-to-peer communication.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
